@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pw3JXxhHfPfCA7bkE9ryPGkRM7Nhis69P1fnOM4/W3zUTlqNTQom6H35QmMdDg4D+nflDUoDzv/gPX6PP4maLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tenti\\Desktop\\TMPS_lab2\\TMPS_lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tenti\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\tenti\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
